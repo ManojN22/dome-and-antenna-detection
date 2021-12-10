@@ -1,5 +1,9 @@
 <!-- MONGODB -->
 
+sample images 
+<img src="https://user-images.githubusercontent.com/67253152/145504502-10707812-8053-4be8-b664-f41bcf586623.png"/>
+![images2](https://user-images.githubusercontent.com/67253152/145505822-fed154d9-e804-4d9d-938c-f934dad8e101.PNG)
+
 install mongo bd
 
 <!-- backend -->
