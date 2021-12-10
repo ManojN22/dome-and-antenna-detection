@@ -1,0 +1,60 @@
+item {
+ id: 1
+ name: 'car'
+}
+item {
+ id: 2
+ name: 'truck'
+}
+item {
+ id: 3
+ name: 'van'
+}
+item {
+ id: 4
+ name: 'longvehicle'
+}
+item {
+ id: 5
+ name: 'bus'
+}
+item {
+ id: 6
+ name: 'airliner'
+}
+item {
+ id: 7
+ name: 'propeller'
+}
+item {
+ id: 8
+ name: 'trainer'
+}
+item {
+ id: 9
+ name: 'chartered'
+}
+item {
+ id: 10
+ name: 'fighter'
+}
+item {
+ id: 11
+ name: 'other'
+}
+item {
+ id: 12
+ name: 'stairtruck'
+}
+item {
+ id: 13
+ name: 'pushbacktruck'
+}
+item {
+ id: 14
+ name: 'helicopter'
+}
+item {
+ id: 15
+ name: 'boat'
+}
